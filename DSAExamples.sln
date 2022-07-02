@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSAExqamples", "DSAExqamples\DSAExqamples.pyproj", "{02ED3F54-0B4D-4319-9916-01418A30B4C2}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSAExamples", "DSAExqamples\DSAExamples.pyproj", "{02ED3F54-0B4D-4319-9916-01418A30B4C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
